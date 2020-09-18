@@ -1,4 +1,4 @@
-# Welcome to the ScanAPI wiki!
+# Welcome to the ScanAPI 
 
 ***
 
